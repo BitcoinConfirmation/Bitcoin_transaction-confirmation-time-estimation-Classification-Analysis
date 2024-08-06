@@ -1,0 +1,27 @@
+#!/bin/bash
+# SBATCH --time=1:20:00
+sbatch 6ClassSet34finalAttentionsWht1.sh
+sbatch 6ClassSet32finalAttentionsWht1.sh
+sbatch 4ClassSet32finalAttentionsWht1.sh
+sbatch 8ClassSet36finalAttentionsWht1.sh
+sbatch 2ClassSet33finalAttentionsWht1.sh
+sbatch 2ClassSet35finalAttentionsWht1.sh
+sbatch 4ClassSet34finalAttentionsWht1.sh
+sbatch 6ClassSet35finalAttentionsWht1.sh
+sbatch 6ClassSet33finalAttentionsWht1.sh
+sbatch 2ClassSet32finalAttentionsWht1.sh
+sbatch 4ClassSet33finalAttentionsWht1.sh
+sbatch 4ClassSet35finalAttentionsWht1.sh
+sbatch 8ClassSet31finalAttentionsWht1.sh
+sbatch 2ClassSet34finalAttentionsWht1.sh
+sbatch 6ClassSet36finalAttentionsWht1.sh
+sbatch 8ClassSet32finalAttentionsWht1.sh
+sbatch 4ClassSet36finalAttentionsWht1.sh
+sbatch 8ClassSet34finalAttentionsWht1.sh
+sbatch 2ClassSet31finalAttentionsWht1.sh
+sbatch 2ClassSet31finalAttentionsWht.sh
+sbatch 6ClassSet31finalAttentionsWht1.sh
+sbatch 8ClassSet33finalAttentionsWht1.sh
+sbatch 2ClassSet36finalAttentionsWht1.sh
+sbatch 8ClassSet35finalAttentionsWht1.sh
+sbatch 4ClassSet31finalAttentionsWht1.sh
